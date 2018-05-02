@@ -1,0 +1,7 @@
+*.suo
+*.user
+Capture/obj
+WindowsFormsApp1/obj
+bin
+packages
+.vs
